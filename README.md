@@ -2,6 +2,6 @@
 
 ### This is a very basic audio player I made to test my React native habilities
 
- ![](https://recordit.co/KAT4O1iksl)
+ ![](https://recordit.co/KAT4O1iksl.gif)
 
 
